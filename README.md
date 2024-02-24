@@ -4,10 +4,7 @@ For this project, I put together a game of Hangman using the C++ Coding Language
 
 Like mentioned earlier, this software is a game of Hangman and was crafted in an attempt to familiarize myself with the C++ Coding Language.
 
-
-4-5 minutes
-Focus should be on sharing what you learned about the language syntax.
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=MrLuFcjQ34c)
 
 
 # Development Environment
